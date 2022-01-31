@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PSKP", "PSKP\PSKP.vcxproj", "{D5E350A6-1FFC-466E-81D7-9691D0E58002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E350A6-1FFC-466E-81D7-9691D0E58002}.Release|x64.ActiveCfg = Release|x64
+		{D5E350A6-1FFC-466E-81D7-9691D0E58002}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648B5658-B0BC-4CF8-B18A-457A63C9FCFF}
+	EndGlobalSection
+EndGlobal
